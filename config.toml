@@ -1,0 +1,19 @@
+theme="amp"
+baseurl = "winstonhoseadriggins.github.io/amp"
+title = "Your Site Title"
+copyright = "© 2016 Copyright Text"
+canonifyurls = true
+
+[params]
+  description = "Your Site description for top page" #optional
+  googleanalytics = "Your Tracking Id" # optional
+
+# optional
+[social]
+  twitter = "Your Twitter Name"
+  github = "Your Github Name"
+  facebook = "Your facebook Name"
+  gplus = "Your Google+ profile name"
+  linkedin = "Your LinkedIn Name"
+
+  publishDir = "docs"
